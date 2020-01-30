@@ -1,0 +1,11 @@
+C:\Users\abeis\source\repos\Lab9 Refactoring time!\bin\Debug\netcoreapp3.1\Lab9 Refactoring time!.exe
+C:\Users\abeis\source\repos\Lab9 Refactoring time!\bin\Debug\netcoreapp3.1\Lab9 Refactoring time!.deps.json
+C:\Users\abeis\source\repos\Lab9 Refactoring time!\bin\Debug\netcoreapp3.1\Lab9 Refactoring time!.runtimeconfig.json
+C:\Users\abeis\source\repos\Lab9 Refactoring time!\bin\Debug\netcoreapp3.1\Lab9 Refactoring time!.runtimeconfig.dev.json
+C:\Users\abeis\source\repos\Lab9 Refactoring time!\bin\Debug\netcoreapp3.1\Lab9 Refactoring time!.dll
+C:\Users\abeis\source\repos\Lab9 Refactoring time!\bin\Debug\netcoreapp3.1\Lab9 Refactoring time!.pdb
+C:\Users\abeis\source\repos\Lab9 Refactoring time!\obj\Debug\netcoreapp3.1\Lab9 Refactoring time!.csprojAssemblyReference.cache
+C:\Users\abeis\source\repos\Lab9 Refactoring time!\obj\Debug\netcoreapp3.1\Lab9 Refactoring time!.AssemblyInfoInputs.cache
+C:\Users\abeis\source\repos\Lab9 Refactoring time!\obj\Debug\netcoreapp3.1\Lab9 Refactoring time!.AssemblyInfo.cs
+C:\Users\abeis\source\repos\Lab9 Refactoring time!\obj\Debug\netcoreapp3.1\Lab9 Refactoring time!.dll
+C:\Users\abeis\source\repos\Lab9 Refactoring time!\obj\Debug\netcoreapp3.1\Lab9 Refactoring time!.pdb
